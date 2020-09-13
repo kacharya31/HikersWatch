@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/archivo_black</item>
+        <item>@font/biorhyme_bold</item>
+        <item>@font/bowlby_one</item>
+        <item>@font/chonburi</item>
+        <item>@font/headland_one</item>
+        <item>@font/supermercado_one</item>
+        <item>@font/telex</item>
+        <item>@font/walter_turncoat</item>
+        <item>@font/wellfleet</item>
+    </array>
+</resources>
